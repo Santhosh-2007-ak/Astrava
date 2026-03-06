@@ -1,0 +1,5 @@
+{
+  "name": "MedFusion AI",
+  "description": "Multi-Modal Medical Diagnosis Platform analyzing scans, symptoms, and lab reports.",
+  "requestFramePermissions": []
+}
